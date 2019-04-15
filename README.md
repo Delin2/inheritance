@@ -1,1 +1,3 @@
-# inheritance
+# Inheritance
+
+Simple inheritance in python.
